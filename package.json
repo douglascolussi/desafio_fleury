@@ -1,0 +1,24 @@
+{
+  "name": "desafio_fleury",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test:chrome": "cypress run --browser chrome"
+  },
+  "cypress-cucumber-preprocessor": {
+    "step_definitions": "cypress/support/steps"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/douglascolussi/desafio_fleury.git"
+  },
+  "author": "Douglas Colussi",
+  "devDependencies": {
+    "cypress": "^7.2.0",
+    "cypress-cucumber-preprocessor": "^4.1.0"
+  },
+  "dependencies": {
+    "cosmiconfig": "^7.0.0"
+  }
+}
