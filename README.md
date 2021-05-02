@@ -1,6 +1,6 @@
 # [Fleury] - QA Automação
 
-### Instalar node e suas dependencias:
+### Instalar node e suas dependências:
 ``` 
 $ npm i 
 ```
