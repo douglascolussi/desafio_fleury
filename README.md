@@ -1,7 +1,11 @@
 # [Fleury] - QA Automação
 
 ### Instalar node e suas dependencias:
-``` $ npm i ```
+``` 
+$ npm i 
+```
 
 ### Rodar comando para realizar o teste:
- ``` $ npm run test:chrome  ```
+ ```
+ $ npm run test:chrome
+ ```
